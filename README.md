@@ -32,7 +32,6 @@ Watch the video here: [My Splunk Presentation](https://youtu.be/Mm8gPZpMgqs)
 
 ## Files Included
 - `sample_logs.csv` – Web server logs (for ingestion)
-- `splunk_spl_queries.txt` – SPL searches for common threat detection
 
 ---
 
