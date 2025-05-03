@@ -23,16 +23,16 @@ This repository includes:
 - A basic SPL search script
 - A screenshot of a dashboard created with Splunk
 - Sample alert setup
-- Link to my presentation video
+
+## Presentation Video
+
+Watch the video here: [My Splunk Presentation](https://youtu.be/Mm8gPZpMgqs)
 
 ---
 
 ## Files Included
 - `sample_logs.csv` – Web server logs (for ingestion)
 - `splunk_spl_queries.txt` – SPL searches for common threat detection
-- `alert_conditions.md` – Sample use case for alert creation
-- `dashboard_screenshot.png` – Image of Splunk dashboard
-- `presentation_video_link.txt` – Link to the YouTube presentation
 
 ---
 
