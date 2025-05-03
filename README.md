@@ -8,7 +8,7 @@ This project explores the duties of an Information Security Analyst and showcase
 
 ---
 
-## 🛠️ Tool: Splunk  
+## Tool: Splunk  
 Splunk helps security analysts:
 - Monitor logs and network activity
 - Detect anomalies and cyber threats
@@ -36,7 +36,7 @@ Watch the video here: [My Splunk Presentation](https://youtu.be/Mm8gPZpMgqs)
 
 ---
 
-## 🎥 Demo Preview
+## Demo Preview
 - **SPL Query Example:**
   ```spl
   index=main status=401 | stats count by src_ip
